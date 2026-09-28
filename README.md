@@ -13,4 +13,7 @@ exercício de fluxo de trabalho corporativo com Git/GitHub (develop → stage �
 
 ## Tripulantes (desenvolvedores)
 
-- SEU NOME
+- Lucas Paiva Magalhães - RA: 4251925101
+- Luca Fernandes - RA: 4251924436
+- Guilherme de Oliveira Navais – RA: 4251923674
+- Anthony Rafael Braga Magalhães – RA: 4251924039
